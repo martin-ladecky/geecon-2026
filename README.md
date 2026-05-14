@@ -11,7 +11,7 @@ Key takeaways include:
 * The Great Exit: How we are building a "Zero-Loss" migration strategy to move 10 billion records from legacy Exadata to Cloud PostgreSQL, including the business case that made it possible.
 
 ## Content
-- 📄 **[Presentation_Name].pdf**: The full slide deck in PDF format.
+- 📄 **[10 Billion Records vs. The Regulator.pdf](./10%20Billion%20Records%20vs.%20The%20Regulator.pdf)**: The full slide deck.
 
 ## License
 
